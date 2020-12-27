@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/foyer.json#startLounge}"
+                 "value":"{<lobby>\/maps\/foyer.json#startLounge}"
                 }],
          "type":"tilelayer",
          "visible":true,
