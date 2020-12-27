@@ -49,7 +49,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sertgzhbvcfgdrt567tzuhgfr567z"
+                 "value":"shared backstage1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kuztfgvbhjuztrdfgcgvhztrd"
+                 "value":"shared backstage2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kljhgfde4tr5ztughijiokiuhzgt"
+                 "value":"shared backstage3"
                 }],
          "type":"tilelayer",
          "visible":true,

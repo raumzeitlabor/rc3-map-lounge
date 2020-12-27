@@ -223,7 +223,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"RamenZenLounge1"
+                 "value":"shared RamenZenLounge1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"RamenZenLounge2"
+                 "value":"shared RamenZenLounge2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"RamenZenLounge3"
+                 "value":"shared RamenZenLounge3"
                 }],
          "type":"tilelayer",
          "visible":true,
