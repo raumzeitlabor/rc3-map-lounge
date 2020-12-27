@@ -121,7 +121,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/live.self.c3voc.de\/c3lounge_native.mp3"
+                 "value":"stream:rc3lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
