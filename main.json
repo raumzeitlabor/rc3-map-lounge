@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<raumzeitlabor>\/main.json}"
+                 "value":"{<raumzeitlabor>\/main.json#startlounge}"
                 }],
          "type":"tilelayer",
          "visible":true,
