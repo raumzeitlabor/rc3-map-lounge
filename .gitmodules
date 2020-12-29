@@ -1,0 +1,3 @@
+[submodule "wa-toilet-party"]
+	path = wa-toilet-party
+	url = git@git.cccv.de:deinkoks/wa-toilet-party.git
