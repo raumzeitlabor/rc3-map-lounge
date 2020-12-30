@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"wa-toilet-party\/maps\/restroom-party.json"
+                 "value":"wa-toilet-party\/maps\/restroom-party.json#start-lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
