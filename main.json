@@ -483,12 +483,6 @@
          "id":27,
          "name":"website2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.paypal.com\/pools\/c\/8vx77cG1cI"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
