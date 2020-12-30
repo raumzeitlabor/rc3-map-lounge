@@ -99,6 +99,12 @@
          "id":23,
          "name":"exit4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<komona>\/main.json#start_lounge}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -111,6 +117,12 @@
          "id":35,
          "name":"start4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
