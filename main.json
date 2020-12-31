@@ -361,7 +361,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared Oio Bonfire"
+                 "value":"shared Oio-Bonfire"
                 }],
          "type":"tilelayer",
          "visible":true,
