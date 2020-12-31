@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared backstage1"
+                 "value":"backstage1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared backstage2"
+                 "value":"backstage2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared backstage3"
+                 "value":"backstage3"
                 }],
          "type":"tilelayer",
          "visible":true,

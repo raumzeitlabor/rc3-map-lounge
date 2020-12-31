@@ -325,7 +325,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared RamenZenLounge1"
+                 "value":"RamenZenLounge1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +343,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"wohnzimmerparty-3ae96"
+                 "value":"wohnzimmerparty"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared RamenZenLounge3"
+                 "value":"RamenZenLounge3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"share RamenZenLounge4"
+                 "value":"RamenZenLounge4"
                 }],
          "type":"tilelayer",
          "visible":true,
