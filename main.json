@@ -343,7 +343,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared RamenZenLounge2"
+                 "value":"wohnzimmerparty-3ae96"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/jitsi.rc3.world\/geraffel-village"
+                 "value":"share RamenZenLounge4"
                 }],
          "type":"tilelayer",
          "visible":true,
