@@ -379,7 +379,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared RamenZenLounge4"
+                 "value":"https:\/\/jitsi.rc3.world\/geraffel-village"
                 }],
          "type":"tilelayer",
          "visible":true,
