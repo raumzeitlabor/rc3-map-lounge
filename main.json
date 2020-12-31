@@ -409,7 +409,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"defcon.m3u"
+                 "value":"defcon.m3u8"
                 }],
          "type":"tilelayer",
          "visible":true,
