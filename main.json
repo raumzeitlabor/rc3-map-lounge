@@ -255,12 +255,6 @@
          "id":40,
          "name":"exit00",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"wa-toilet-party\/maps\/restroom-party.json#start-lounge"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
