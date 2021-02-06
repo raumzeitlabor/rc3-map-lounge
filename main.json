@@ -457,7 +457,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.tabascoeye.de\/partytime.html"
+                 "value":"https:\/\/www.tabascoeye.de\/partytime.html"
                 }],
          "type":"tilelayer",
          "visible":true,
