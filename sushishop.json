@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/stream.c-radar.de:8443\/dreckigerTest.mp3"
+                 "value":"http:\/\/ice6.somafm.com\/beatblender-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
