@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/radiocarl\/radiocarl\/main\/portcarl.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/radiocarl\/portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
