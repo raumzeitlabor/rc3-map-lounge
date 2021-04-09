@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"raw.githubusercontent.com\/radiocarl\/radiocarl\/main\/portcarl.json"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/radiocarl\/radiocarl\/main\/portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
