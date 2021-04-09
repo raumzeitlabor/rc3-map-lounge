@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/radiocarl\/portcarl.json"
+                 "value":"raw.githubusercontent.com\/radiocarl\/radiocarl\/main\/portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +415,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice6.somafm.com\/groovesalad-128-mp3"
+                 "value":"https:\/\/ice6.somafm.com\/groovesalad-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

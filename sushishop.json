@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice6.somafm.com\/beatblender-128-mp3"
+                 "value":"https:\/\/ice6.somafm.com\/beatblender-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
