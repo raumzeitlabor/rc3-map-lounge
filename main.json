@@ -195,7 +195,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"fahrplan.html"
+                         "value":"https:\/\/static.rc3.world\/scripts\/lounge\/pretalx.html"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
