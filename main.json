@@ -59,8 +59,8 @@
                         }, 
                         {
                          "name":"jitsiWidth",
-                         "type":"string",
-                         "value":"57"
+                         "type":"int",
+                         "value":57
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -388,6 +388,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Erweiterung11x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -402,6 +408,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"jungle",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -436,6 +448,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Layer1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -450,6 +468,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Pflanzen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -464,6 +488,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Layer2_Baeume_dunkelblau",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -478,6 +508,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Erweiterung_Vordergrund_schwarz",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -492,6 +528,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Baumstamm",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -506,6 +548,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Voegel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":1768,
          "tileheight":32,
@@ -973,6 +1021,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"feuer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1011,13 +1065,7 @@
                          "duration":150,
                          "tileid":14
                         }],
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"(c) by flederrattie"
-                        }]
+                 "id":0
                 }, 
                 {
                  "animation":[
