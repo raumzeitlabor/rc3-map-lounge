@@ -195,7 +195,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/static.rc3.world\/scripts\/lounge\/pretalx.html"
+                         "value":"https:\/\/static.rc3.world\/scripts\/lounge\/pretalks.html"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1113,13 +1113,7 @@
                          "duration":150,
                          "tileid":15
                         }],
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"(c) by flederrattie"
-                        }]
+                 "id":1
                 }, 
                 {
                  "animation":[
@@ -1155,13 +1149,7 @@
                          "duration":150,
                          "tileid":30
                         }],
-                 "id":16,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"(c) by flederrattie"
-                        }]
+                 "id":16
                 }, 
                 {
                  "animation":[
@@ -1197,13 +1185,7 @@
                          "duration":150,
                          "tileid":31
                         }],
-                 "id":17,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"(c) by flederrattie"
-                        }]
+                 "id":17
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -1333,6 +1315,12 @@
          "imagewidth":1792,
          "margin":0,
          "name":"Exitpilz",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
@@ -1815,13 +1803,7 @@
                          "duration":150,
                          "tileid":111
                         }],
-                 "id":59,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"(c) by flederrattie"
-                        }]
+                 "id":59
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
