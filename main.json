@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/lobby\/lounge_hub.json#start_lounge"
+                         "value":"world:\/\/lobby\/lounge-hub.json#start_lounge"
                         }],
                  "type":"tilelayer",
                  "visible":true,
