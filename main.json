@@ -7544,6 +7544,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Telefon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
