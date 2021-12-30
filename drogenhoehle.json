@@ -163,7 +163,7 @@
          "name":"drugbirds",
          "objects":[
                 {
-                 "height":25.8027163391232,
+                 "height":25.8027,
                  "id":4,
                  "name":"",
                  "properties":[
@@ -175,9 +175,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":69.3729408573745,
-                 "x":766.117802948167,
-                 "y":1345.50446519412
+                 "width":69.3729,
+                 "x":766.118,
+                 "y":1345.5
                 }],
          "opacity":1,
          "type":"objectgroup",
