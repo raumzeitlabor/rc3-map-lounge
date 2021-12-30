@@ -159,6 +159,34 @@
         }, 
         {
          "draworder":"topdown",
+         "id":85,
+         "name":"drugbirds",
+         "objects":[
+                {
+                 "height":25.8027163391232,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"U0QTmBoER6rC4W0CJ7prZ2yeeUmsRQsHEKffN8rnn6rBKjPPQd"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":69.3729408573745,
+                 "x":766.117802948167,
+                 "y":1345.50446519412
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":63,
          "name":"Leinwand",
          "objects":[
@@ -197,8 +225,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":85,
- "nextobjectid":3,
+ "nextlayerid":86,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
