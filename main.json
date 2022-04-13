@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/raw.githubusercontent.com\/c0c0bird\/bridging-bubbles\/main\/main_open.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/c0c0bird\/bridging-bubbles\/main\/main_open.json#start_lounge"
                         }],
                  "type":"tilelayer",
                  "visible":true,
